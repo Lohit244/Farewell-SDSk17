@@ -1,2 +1,2 @@
 ### Hi there 👋
-<img src="../img/UG.jpeg" width="50%">
+<img src="../img/UG.jpeg" width="40%">
